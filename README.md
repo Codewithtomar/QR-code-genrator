@@ -1,0 +1,1 @@
+A QR Code Genrator is a tool  that allows users to create customized QR Code for various purposees such as website links,contact informations,wifi credentials ,for resturant menu,payments details and more.this tool is widely used for marketing ,business promotions,events tickets and personal use enabling quick and easy data sharing
